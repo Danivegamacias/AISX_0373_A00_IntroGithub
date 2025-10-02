@@ -20,3 +20,12 @@ Esto está en *cursiva*
 3. Elemento 3
     * Elemento desordenado 1.2
     * Elemento desordenado 2.2
+
+eefihgusbhldfujpowqengkhleifrnqeipf wiuewn 4wiht ewihlg erihlg eworg 42uigj rwgjokrw nbij wonbgrih2jong gfhfnfjmtyjtryhetebejokeojrleroiwgjlbnkjrvjo2igjlwbn eriugoihwrn vdojkruo
+
+```html
+<p>Esto es un párrafo</p>
+´´´
+[link](https://markdown.es/ "Manual oficial markdown")
+
+![alt text](./fali.jpg "Imagen Fali")
