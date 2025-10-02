@@ -26,3 +26,9 @@ eefihgusbhldfujpowqengkhleifrnqeipf wiuewn 4wiht ewihlg erihlg eworg 42uigj rwgj
 [link](https://markdown.es/ "Manual oficial markdown")
 
 ![alt text](./fali.jpg "Imagen Fali")
+
+| Jugador | dorsal | nombre |
+|-------|:----------:|:------------------|
+| 77 | Cadiz | Fali |
+| 33 | Levante | Etta Eyong |
+| 20 | Ponfe | JH |
